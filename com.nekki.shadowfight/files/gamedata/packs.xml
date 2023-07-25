@@ -1,0 +1,16 @@
+<Packs>
+  <Pack Name="ZONE_RAID" Url="https://assets.nekkimobile.ru/shadowfight/unity_packs/SF2_free/zone_raid_16-51-27_23_06_2023_38b5eb9503e7a3c0943cff9406556e33_2970783472_android" Version="2.28.0" Attach="1" Hash="45E76A5E2ABA26EC9F9182FE96F9626C" Priority="0" />
+  <Pack Name="CLANS" Url="https://assets.nekkimobile.ru/shadowfight/unity_packs/SF2_free/clans_17-37-21_26_06_2023_5c7c76c2b4e0bfc22937a10f1d49d5ca_2328404428_android" Version="2.28.0" Attach="1" Hash="F0F494E55DF6D10341D628AF0A79A4BD" Priority="0" />
+  <Pack Name="CONFIGS" Url="https://assets.nekkimobile.ru/shadowfight/unity_packs/SF2_free/configs_14-21-08_28_06_2023_4cc616060fc0b3678322ce7185f0d5a8_1374131446_android" Version="2.28.0" Attach="1" Hash="808C89785345ED7B50123003FFA2507B" Priority="0" />
+  <Pack Name="TACTICS" Url="https://assets.nekkimobile.ru/shadowfight/unity_packs/SF2_free/tactics_17-45-37_27_07_2022_android" Version="2.28.0" Attach="1" Hash="7C208F75F3DAEBF215C6DCDAABE3859B" Priority="0" />
+  <Pack Name="MODELS" Url="https://assets.nekkimobile.ru/shadowfight/unity_packs/SF2_free/models_12-45-11_24_05_2023_19fd6c2273f3c86c07961d5d3b6d1a34_1591564987_android" Version="2.28.0" Attach="1" Hash="EAD1F60F9A00D3519F7DE18B5F812003" Priority="0" />
+  <Pack Name="ZONE_2" Url="https://assets.nekkimobile.ru/shadowfight/unity_packs/SF2_free/zone_2_16-18-23_10_04_2023_0a719aa6584dc5e9e049181662651551_2527936507_android" Version="2.28.0" Attach="1" Hash="8B82C965165430F6E6AB3DFAA7354844" Priority="0" />
+  <Pack Name="ZONE_3" Url="https://assets.nekkimobile.ru/shadowfight/unity_packs/SF2_free/zone_3_17-45-37_27_07_2022_android" Version="2.28.0" Attach="1" Hash="8EEB409937CE36E7952FF66E97B6F743" Priority="0" />
+  <Pack Name="ZONE_4" Url="https://assets.nekkimobile.ru/shadowfight/unity_packs/SF2_free/zone_4_17-45-37_27_07_2022_android" Version="2.28.0" Attach="1" Hash="51141ADBB6809C44FEF4463723301D6A" Priority="0" />
+  <Pack Name="ZONE_5" Url="https://assets.nekkimobile.ru/shadowfight/unity_packs/SF2_free/zone_5_17-45-37_27_07_2022_android" Version="2.28.0" Attach="1" Hash="C1DDD8880A79FC5EE19A922D607164BE" Priority="0" />
+  <Pack Name="ZONE_6" Url="https://assets.nekkimobile.ru/shadowfight/unity_packs/SF2_free/zone_6_17-45-37_27_07_2022_android" Version="2.28.0" Attach="1" Hash="39F57891D1DBD8CA2F169896105EAD22" Priority="0" />
+  <Pack Name="ZONE_IM" Url="https://assets.nekkimobile.ru/shadowfight/unity_packs/SF2_free/zone_im_11-42-51_19_10_2022_android" Version="2.28.0" Attach="1" Hash="EEB67FF6A3B7C1EC00794B5886360C15" Priority="0" />
+  <Pack Name="ZONE_7" Url="https://assets.nekkimobile.ru/shadowfight/unity_packs/SF2_free/zone_7_16-18-23_10_04_2023_d591dc2dc835d00cb7da460f57c05559_2141240953_android" Version="2.28.0" Attach="1" Hash="4CCFFE8A823B8F6D2D567E0B9D794AE8" Priority="0" />
+  <Pack Name="ZONE_7_2" Url="https://assets.nekkimobile.ru/shadowfight/unity_packs/SF2_free/zone_7_2_16-18-23_10_04_2023_f7bcaa03e80bdd839b19bdc8b489671b_1289213279_android" Version="2.28.0" Attach="1" Hash="3241608631DD65385E05BD21B728C2D9" Priority="0" />
+  <Pack Name="ZONE_7_3" Url="https://assets.nekkimobile.ru/shadowfight/unity_packs/SF2_free/zone_7_3_12-45-11_24_05_2023_fe2149aa8596fac62b634153bee4fab2_2203330427_android" Version="2.28.0" Attach="1" Hash="1BDE4627D0B8DF49BB18E8FF5CFCDA8C" Priority="0" />
+</Packs>
